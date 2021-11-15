@@ -1,0 +1,14 @@
+This is the international space station location program written in C++ by Brad Bettencourt (See license). This was built using C++ 11 and requires libcurl4 & or libcurl-dev to be installed before running the make file. 
+
+To run/install. 
+
+1.) make
+2.) ./iss
+
+To exit the application at any time please use ctrl^C. 
+
+Usage:
+
+Display's the current lat and long of the iss. Updates every 2 seconds. Takes no flags.
+
+version 1.0
