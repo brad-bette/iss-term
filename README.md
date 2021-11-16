@@ -1,5 +1,6 @@
 # iss-term
 Displays Latidude &amp; Longitude on the terminal from a public API, by using lib curl
+![alt text](https://raw.githubusercontent.com/brad-bette/iss-term/main/iss-demo.gif)
 
 ## Libraries used
  - libcurl 
